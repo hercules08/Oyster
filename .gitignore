@@ -4,4 +4,9 @@ bin
 obj
 TestResults
 *.vsmdi
+<<<<<<< HEAD
 *.testsettings
+=======
+*.testsettings
+*.pem
+>>>>>>> a6d194cb734743fc17797742720266eb624dcca3
